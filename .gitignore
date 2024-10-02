@@ -1,2 +1,5 @@
 node_modules/
 PROJECT PREVIEW.TXT
+.env
+Telegrambot architecture.png
+server2.js
